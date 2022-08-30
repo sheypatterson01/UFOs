@@ -1,0 +1,13 @@
+body {
+    
+    color: #f7f7f7;
+}
+
+.jumbotron {
+    background-image: url(../images/nasa.jpg);
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+/* .jumbotron tells the stylesheet to apply the changes only to divs with the class of "jumbotron"
+/* Size of the background is set to span the entire width and height of the element no matter the size of the viewport
